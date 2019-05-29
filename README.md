@@ -1,5 +1,7 @@
 # TaskCRUD
 
+<h2>Deploy in heroku - https://componentsapp.herokuapp.com</h2>
+
 **Для запуска приложения:**
 ```
 1.Подключиться к БД(root,root). Скрипт находится в папке config.
